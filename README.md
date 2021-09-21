@@ -1,7 +1,7 @@
 # Car_price_prediction
 ## Model Evaluation and Validation
 ## Data Preprocessing 
-## Project:Flight Fare prediction
+## Project:Car price prediction
 
 ### Install
 
@@ -18,7 +18,7 @@ you will also need to have software installed to run and execute a [Jupyter Note
 
 ### DataSet
 
-[Flight Fare Prediction Dataset](https://www.kaggle.com/nikhilmittal/flight-fare-prediction-mh) 
+[Dataset](https://www.kaggle.com/nehalbirla/vehicle-dataset-from-cardekho) 
 
 
 ### Approach 
